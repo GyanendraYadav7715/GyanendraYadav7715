@@ -14,7 +14,7 @@
 public class Gyanendra {
 
     String role            = "Backend Engineer";
-    String company         = "Comprig";
+    String company         = "Startupway24";
     String location        = "Delhi, India 🇮🇳";
     String[] stack         = {"Java", "Spring Boot", "Spring Security", "JPA/Hibernate"};
     String[] focus         = {"System Design", "REST APIs", "Microservices"};
@@ -26,7 +26,7 @@ public class Gyanendra {
 
 ---
 
-## 🚀 Production Projects
+##  Production Projects
 
 <table>
   <tr>
@@ -116,7 +116,7 @@ public class Gyanendra {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -133,7 +133,7 @@ public class Gyanendra {
 
 ---
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
@@ -144,13 +144,13 @@ public class Gyanendra {
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanendra-yadav-059725253/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GyanendraYadav7715)
-[![Portfolio](https://img.shields.io/badge/Live_Project-marriagesaga.com-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://www.marriagesaga.com)
+[![Portfolio](https://img.shields.io/badge/Live_Project-marriagesaga.com-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://gyanendra-yadav.vercel.app/)
 
 </div>
 
