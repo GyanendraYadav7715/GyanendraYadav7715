@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gyanendra%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20System%20Design%20%7C%20First%20Principles%20Thinker&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+production+systems+that+scale;Spring Boot+%7C+Express+%7C+MySQL+%7C+Socket.IO;Driven+by+Physics%2C+Math+%26+First+Principles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+production+systems+that+scale;SpringBoot+%7C+Express+%7C+MySQL+%7C+Socket.IO;Driven+by+Physics%2C+Math+%26+First+Principles)](https://git.io/typing-svg)
 
 </div>
 
