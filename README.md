@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gyanendra%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20System%20Design%20%7C%20First%20Principles%20Thinker&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gyanendra%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20System%20Design%20%7C%20First%20Principles%20Thinker&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+production+systems+that+scale;SpringBoot+%7C+Express+%7C+MySQL+%7C+Socket.IO;Driven+by+Physics%2C+Math+%26+First+Principles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=600&lines=Building+production+systems+that+scale;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Microservices;Driven+by+Physics%2C+Math+%26+First+Principles)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,16 +10,18 @@
 
 ## 🧠 About Me
 
-```javascript
-const gyanendra = {
-  role       : "Backend Engineer",
-  company    : "Comprig",
-  location   : "Delhi, India 🇮🇳",
-  focus      : ["System Design", "REST APIs", "Real-Time Systems"],
-  philosophy : "Understand the why before writing the how",
-  currentlyBuilding: "Production-grade backend systems",
-  competitive: ["LeetCode", "Codeforces"],
-};
+```java
+public class Gyanendra {
+
+    String role            = "Backend Engineer";
+    String company         = "Comprig";
+    String location        = "Delhi, India 🇮🇳";
+    String[] stack         = {"Java", "Spring Boot", "Spring Security", "JPA/Hibernate"};
+    String[] focus         = {"System Design", "REST APIs", "Microservices"};
+    String philosophy      = "Understand the why before writing the how";
+    String currentlyBuilding = "Production-grade Spring Boot systems";
+    String[] competitive   = {"LeetCode", "Codeforces"};
+}
 ```
 
 ---
@@ -86,10 +88,12 @@ const gyanendra = {
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Database & Real-Time**
 
@@ -112,7 +116,7 @@ const gyanendra = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -129,7 +133,7 @@ const gyanendra = {
 
 ---
 
-## Competitive Programming
+## 🏆 Competitive Programming
 
 <div align="center">
 
@@ -140,7 +144,7 @@ const gyanendra = {
 
 ---
 
-##Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
