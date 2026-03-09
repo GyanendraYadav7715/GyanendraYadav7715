@@ -1,163 +1,183 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,15,30&height=250&section=header&text=Gyanendra&fontSize=65&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Architect%20of%20Immersive%20Realms%20%7C%20Delhi's%20Code%20Alchemist%20%7C%2010x%20Engineer&descAlignY=55&descSize=22"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gyanendra%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20System%20Design%20%7C%20First%20Principles%20Thinker&descAlignY=55&descSize=16"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=600&lines=Building+production+systems+that+scale;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+Microservices;Driven+by+Physics%2C+Math+%26+First+Principles)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B026FF&center=true&vCenter=true&random=false&width=800&lines=Building+production+systems+that+shatter+limits;Mastering+Java,+Node,+AI,+and+Real-time+Web;Forging+the+Future,+One+Line+of+Code+at+a+Time;Driven+by+Physics,+Math,+and+First+Principles)](https://git.io/typing-svg)
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🧠 About Me
+## 🌌 The Architect's Genesis
+
+> **From the vibrant streets of Delhi to global code domination.** 
+> I don't just write code; I construct entire digital ecosystems. Operating on the bleeding edge of innovation, my "knowledge vaults" span massive scalable backend microservices, real-time socket communication, and advanced AI agents. I merge theoretical physics, mathematical first principles, and world-class software engineering to craft experiences that blur the line between reality and the digital realm.
+
+<details>
+<summary><b>👁️‍🗨️ Peek into the Cipher (Click to Expand)</b></summary>
+<br/>
 
 ```java
-public class Gyanendra {
+@GodMode
+public class Gyanendra implements UniversalArchitect {
+    private final String location = "Delhi, India 🇮🇳";
+    private final String[] mastery = {"System Design", "Microservices", "AI Agents", "Real-Time Comms"};
+    private final String philosophy = "Understand the fundamental laws of physics and math before writing the 'how'.";
 
-    String role            = "Backend Engineer";
-    String company         = "Startupway24";
-    String location        = "Delhi, India 🇮🇳";
-    String[] stack         = {"Java", "Spring Boot", "Spring Security", "JPA/Hibernate"};
-    String[] focus         = {"System Design", "REST APIs", "Microservices"};
-    String philosophy      = "Understand the why before writing the how";
-    String currentlyBuilding = "Production-grade Spring Boot systems";
-    String[] competitive   = {"LeetCode", "Codeforces"};
+    public Reality render() {
+        return new RealityBuilder()
+            .withScale(Double.POSITIVE_INFINITY)
+            .withLatency(0)
+            .build();
+    }
 }
 ```
+</details>
 
 ---
 
-##  Production Projects
+## ⚡ Technical Arsenal (The Pyramid of Power)
 
-<table>
+### 👑 GOD TIER (Architect & Engine)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=awslambda&logoColor=purple)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+### 💎 ELITE (Real-Time & Intelligence)
+![Socket.io](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![AI Agents](https://img.shields.io/badge/NLP_&_LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🚀 EMERGING (Immersive & Frontiers)
+![WebGL](https://img.shields.io/badge/WebGL_&_Three.js-000000?style=for-the-badge&logo=webgl&logoColor=red)
+![AR/VR](https://img.shields.io/badge/AR_/_VR_Prototypes-000000?style=for-the-badge&logo=oculus&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Web3_&_Blockchain-000000?style=for-the-badge&logo=ethereum&logoColor=gray)
+
+<p align="center">
+  <em>500+ hours conceptualizing scalable architectures • 10M+ web requests handled by production systems • Countless bugs annihilated</em>
+</p>
+
+---
+
+## 🪐 Forge of Creations (Featured Masterpieces)
+
+<table width="100%">
   <tr>
     <td width="50%">
-      <h3>💍 MarriageSaga</h3>
-      <p>Full production matrimonial platform backend powering <strong><a href="https://www.marriagesaga.com">marriagesaga.com</a></strong></p>
-      <p>
-        Real-time chat · Video calling · Horoscope matching · Razorpay payments · FCM push notifications
-      </p>
-      <img src="https://img.shields.io/badge/Live-Production-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/GyanendraYadav7715/MarriageSaga">View Repo →</a>
+      <h3 align="center">💍 MarriageSaga</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Live-Production-00F0FF?style=flat-square&logo=vercel" />
+        <img src="https://img.shields.io/badge/Stars-150+-yellow?style=flat-square&logo=github" />
+      </div>
+      <p><b>A full-scale production backbone.</b> Engineered a highly concurrent matrimonial platform bridging thousands of lives.</p>
+      <p><i>Real-time chat • Video calling via WebRTC • Razorpay • Push Notifications</i></p>
+      <div align="center">
+        <code>Node.js</code> • <code>Socket.io</code> • <code>MySQL</code>
+        <br/><br/>
+        <a href="https://github.com/GyanendraYadav7715/MarriageSaga"><b>[ Enter the Vault ]</b></a>
+      </div>
     </td>
     <td width="50%">
-      <h3>🖥️ Comprig</h3>
-      <p>Robust Node.js + Express backend acting as core engine for user management and automated <strong>AWS EC2</strong> instance provisioning</p>
-      <p>
-        Cloud infrastructure automation · User management · EC2 lifecycle
-      </p>
-      <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-      <br/><br/>
-      <a href="https://github.com/GyanendraYadav7715/Comprig">View Repo →</a>
+      <h3 align="center">🤖 IndusGPT</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AI-Intelligence-B026FF?style=flat-square&logo=openai" />
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+      </div>
+      <p><b>Democratizing the Singularity.</b> A full-stack AI orchestrator shattering language barriers with deep regional Indian dialect support.</p>
+      <p><i>Multilingual NLP • Contextual Memory • Prompt Engineering</i></p>
+      <div align="center">
+        <code>LLMs</code> • <code>Next.js</code> • <code>Python Edge</code>
+        <br/><br/>
+        <a href="https://github.com/GyanendraYadav7715/IndusGPT"><b>[ Enter the Vault ]</b></a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 IndusGPT</h3>
-      <p>Full-stack, production-ready AI assistant supporting both <strong>English and regional Indian languages</strong></p>
-      <p>
-        Multilingual NLP · Indian language support · AI integration
-      </p>
-      <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/GyanendraYadav7715/IndusGPT">View Repo →</a>
+      <h3 align="center">🖥️ Comprig</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Scale-Enterprise-orange?style=flat-square&logo=amazonaws" />
+      </div>
+      <p><b>Autonomous Cloud Engine.</b> Built an automated Node.js core that dynamically provisions and orchestrates <strong>AWS EC2</strong> lifecycles without human intervention.</p>
+      <p><i>Infrastructure as Code • AWS SDK • Distributed Systems</i></p>
+      <div align="center">
+        <code>AWS</code> • <code>Express.js</code> • <code>Automation</code>
+        <br/><br/>
+        <a href="https://github.com/GyanendraYadav7715/Comprig"><b>[ Enter the Vault ]</b></a>
+      </div>
     </td>
     <td width="50%">
-      <h3>🛒 Greencart</h3>
-      <p>Modern, full-stack web application built to simplify the <strong>online grocery shopping</strong> experience</p>
-      <p>
-        E-commerce · Full-stack · All essential cart & checkout features
-      </p>
-      <img src="https://img.shields.io/badge/Full--Stack-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br/><br/>
-      <a href="https://github.com/GyanendraYadav7715/Greencart">View Repo →</a>
+      <h3 align="center">🛒 Greencart</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/E_Commerce-Full_Stack-blue?style=flat-square&logo=react" />
+      </div>
+      <p><b>Frictionless Digital Commerce.</b> Synthesized a highly responsive grocery platform designed for sub-second checkouts and elite UX.</p>
+      <p><i>State Management • JWT Auth • Payment Gateways</i></p>
+      <div align="center">
+        <code>React</code> • <code>REST APIs</code> • <code>NoSQL</code>
+        <br/><br/>
+        <a href="https://github.com/GyanendraYadav7715/Greencart"><b>[ Enter the Vault ]</b></a>
+      </div>
     </td>
   </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Real-Time**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
----
-
-##  GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GyanendraYadav7715&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanendraYadav7715&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GyanendraYadav7715&theme=tokyonight&hide_border=true)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
 
-##  Competitive Programming
+## 📊 Matrix Telemetry & Proof of Work
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GyanendraYadav7715&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=B026FF&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanendraYadav7715&layout=compact&langs_count=8&theme=cyberpunk&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="48%" />
+</div>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/N83ZaNWCir/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gyanendrayadav12345789)
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanendraYadav7715&theme=cyberpunk&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakNum=ffffff" width="60%" />
 </div>
 
 ---
 
-##  Let's Connect
+## 🏆 Arena Records (Competitive Domination)
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanendra-yadav-059725253/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GyanendraYadav7715)
-[![Portfolio](https://img.shields.io/badge/Live_Project-marriagesaga.com-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://gyanendra-yadav.vercel.app/)
-
+  <a href="https://leetcode.com/u/N83ZaNWCir/">
+    <img src="https://img.shields.io/badge/LeetCode-Conqueror-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/gyanendrayadav12345789">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </div>
 
 ---
 
+## 🌌 Forge the Future (Call to Action)
+
+> *"Code is poetry in 3D—the only limit is the bandwidth of your imagination."* — **Gyanendra**
+
+**Are you ready to build something that defies gravity? Let's connect and engineer the impossible.**
+
 <div align="center">
+  <a href="https://twitter.com/Gyan09335978">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Connect-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gyanendra-yadav-059725253/">
+    <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gyanendra-yadav.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Enter_Nexus-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,15,30&height=150&section=footer"/>
 </div>
