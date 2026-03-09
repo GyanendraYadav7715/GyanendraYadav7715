@@ -40,53 +40,6 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>MarriageSaga</h3>
-      <p>A production-ready matrimonial platform catering to thousands of users, featuring real-time communication and seamless payment integrations.</p>
-      <ul>
-        <li><b>Features:</b> Real-time chat, WebRTC video calling, Push notifications, Razorpay integration.</li>
-        <li><b>Tech Stack:</b> Node.js, Socket.IO, MySQL.</li>
-      </ul>
-      <a href="https://github.com/GyanendraYadav7715/MarriageSaga"><b>View Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>IndusGPT</h3>
-      <p>A versatile, multilingual AI assistant application designed to support English and various regional Indian dialects.</p>
-      <ul>
-        <li><b>Features:</b> NLP integration, Contextual memory, AI chatbots.</li>
-        <li><b>Tech Stack:</b> React/Next.js, TailwindCSS, LLMs.</li>
-      </ul>
-      <a href="https://github.com/GyanendraYadav7715/IndusGPT"><b>View Repository</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Comprig</h3>
-      <p>An automated backend engine designed for autonomous cloud infrastructure management and user orchestration.</p>
-      <ul>
-        <li><b>Features:</b> Automated AWS EC2 lifecycle management, User access control, Secure API design.</li>
-        <li><b>Tech Stack:</b> Node.js, Express, AWS SDK.</li>
-      </ul>
-      <a href="https://github.com/GyanendraYadav7715/Comprig"><b>View Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Greencart</h3>
-      <p>A full-stack e-commerce web application focused on providing a smooth online grocery shopping experience.</p>
-      <ul>
-        <li><b>Features:</b> Cart management, Secure checkout, Responsive layout.</li>
-        <li><b>Tech Stack:</b> React, Node.js, Express, NoSQL.</li>
-      </ul>
-      <a href="https://github.com/GyanendraYadav7715/Greencart"><b>View Repository</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
