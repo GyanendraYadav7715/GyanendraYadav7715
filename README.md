@@ -90,6 +90,12 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-703-2ea44f?style=for-the-badge&logo=github" alt="703 Contributions" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GyanendraYadav7715&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanendraYadav7715&layout=compact&langs_count=6&theme=transparent&hide_border=true" width="48%" />
 </div>
