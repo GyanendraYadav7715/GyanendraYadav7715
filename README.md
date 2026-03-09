@@ -4,18 +4,18 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=700&lines=Building+scalable+backend+systems;Passionate+about+Java,+Spring+Boot,+and+Node.js;Developing+impactful+full-stack+applications;Focusing+on+performance,+architecture,+and+clean+code)](https://git.io/typing-svg)
 </div>
 
-## 👋 About Me
+## About Me
 
 I am a Software Engineer based in Delhi, India, specializing in building robust, scalable backend systems and dynamic full-stack applications. With a strong foundation in systemic design and first-principles thinking, I focus on delivering high-quality, production-ready software solutions.
 
-- 💼 **Current Focus:** Architecting resilient backend systems and RESTful APIs.
-- 🛠️ **Core Technologies:** Java, Spring Boot, Node.js, React, Next.js, and AWS.
-- 💡 **Philosophy:** Writing clean, maintainable code and understanding the underlying mechanics before building the solution.
-- 🚀 **Always Learning:** Exploring new advancements in System Design, AI integration, and Real-time communication.
+- **Current Focus:** Architecting resilient backend systems and RESTful APIs.
+- **Core Technologies:** Java, Spring Boot, Node.js, React, Next.js, and AWS.
+- **Philosophy:** Writing clean, maintainable code and understanding the underlying mechanics before building the solution.
+- **Always Learning:** Exploring new advancements in System Design, AI integration, and Real-time communication.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Backend & Architecture**
 
@@ -40,12 +40,12 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💍 MarriageSaga</h3>
+      <h3>MarriageSaga</h3>
       <p>A production-ready matrimonial platform catering to thousands of users, featuring real-time communication and seamless payment integrations.</p>
       <ul>
         <li><b>Features:</b> Real-time chat, WebRTC video calling, Push notifications, Razorpay integration.</li>
@@ -54,7 +54,7 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
       <a href="https://github.com/GyanendraYadav7715/MarriageSaga"><b>View Repository</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 IndusGPT</h3>
+      <h3>IndusGPT</h3>
       <p>A versatile, multilingual AI assistant application designed to support English and various regional Indian dialects.</p>
       <ul>
         <li><b>Features:</b> NLP integration, Contextual memory, AI chatbots.</li>
@@ -65,7 +65,7 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ Comprig</h3>
+      <h3>Comprig</h3>
       <p>An automated backend engine designed for autonomous cloud infrastructure management and user orchestration.</p>
       <ul>
         <li><b>Features:</b> Automated AWS EC2 lifecycle management, User access control, Secure API design.</li>
@@ -74,7 +74,7 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
       <a href="https://github.com/GyanendraYadav7715/Comprig"><b>View Repository</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Greencart</h3>
+      <h3>Greencart</h3>
       <p>A full-stack e-commerce web application focused on providing a smooth online grocery shopping experience.</p>
       <ul>
         <li><b>Features:</b> Cart management, Secure checkout, Responsive layout.</li>
@@ -87,28 +87,17 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-703-2ea44f?style=for-the-badge&logo=github" alt="703 Contributions" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GyanendraYadav7715&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanendraYadav7715&layout=compact&langs_count=6&theme=transparent&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanendraYadav7715&theme=transparent&hide_border=true" width="60%" />
-</div>
 
 ---
 
-## 🏆 Problem Solving
+## Problem Solving
 
 <div align="center">
   <a href="https://leetcode.com/u/N83ZaNWCir/">
@@ -122,7 +111,7 @@ I am a Software Engineer based in Delhi, India, specializing in building robust,
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gyanendra-yadav-059725253/">
